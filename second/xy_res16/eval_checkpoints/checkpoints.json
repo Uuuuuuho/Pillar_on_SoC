@@ -1,0 +1,22 @@
+{
+  "latest_ckpt": {
+    "voxelnet": "voxelnet-46400.tckpt",
+    "adam_optimizer": "adam_optimizer-46400.tckpt"
+  },
+  "all_ckpts": {
+    "voxelnet": [
+      "voxelnet-9280.tckpt",
+      "voxelnet-18560.tckpt",
+      "voxelnet-27840.tckpt",
+      "voxelnet-37120.tckpt",
+      "voxelnet-46400.tckpt"
+    ],
+    "adam_optimizer": [
+      "adam_optimizer-9280.tckpt",
+      "adam_optimizer-18560.tckpt",
+      "adam_optimizer-27840.tckpt",
+      "adam_optimizer-37120.tckpt",
+      "adam_optimizer-46400.tckpt"
+    ]
+  }
+}
